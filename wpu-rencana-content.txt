@@ -1,6 +1,9 @@
 RENCANA KONTEN WPU
 
 - ANDROID STUDIO ( JAVA DAN KOTLIN )
-- pHP Frameworks
+- Javascript
+  * ES6
+  * Frameworks Javascript
+- PHP Frameworks
 - interview
 - Vlog
